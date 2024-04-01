@@ -2,7 +2,7 @@
 
 The pharmacokinetic model describes the kinetics (time course) of the distribution of drugs introduced into the body. The therapeutic effect of a drug depends on its concentration in the target organ and the time spent at the optimal drug concentration. The physician's task is to choose the dose, method and timing of drug administration that ensures the maximum therapeutic effect with minimal side effects. The pharmacokinetic model allows, under certain assumptions, to find changes in drug concentration over time with different methods of drug administration to calculate the optimal ratio between the parameters of drug administration and excretion to ensure the required therapeutic effect.
 
-Note: m0 - weight of a single (loading) dose; k - drug elimination constant from the blood; Q - the amount of substance introduced into the body per unit of time.
+Note: `m0` - weight of a single (loading) dose; k - drug elimination constant from the blood; Q - the amount of substance introduced into the body per unit of time.
 
 ## Method 1. The curve m(t) for single administration of a medicinal product (corresponds to the case when the patient was "given an injection")
 
